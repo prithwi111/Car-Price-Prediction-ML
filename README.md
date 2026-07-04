@@ -2,7 +2,7 @@
 
 This project predicts the selling price of a used car using a Random Forest Regressor.
 
-## 📌 Project Overview
+# 📌 Project Overview
 The model is trained on car features such as:
 - Present Price
 - Kms Driven
