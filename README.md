@@ -4,12 +4,12 @@ This project predicts the selling price of a used car using a Random Forest Regr
 
 # 📌 Project Overview
 The model is trained on car features such as:
-- Present Price
-- Kms Driven
-- Fuel Type
-- Seller Type
-- Transmission
-- Car Age
+- Present Price.
+- Kms Driven.
+- Fuel Type.
+- Seller Type.
+- Transmission.
+- Car Age.
 
 The model predicts the **Selling Price of a Car in Lakhs**.
 
